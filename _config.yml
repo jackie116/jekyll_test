@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Jekyll Test
+#description: A Jekyll theme for documentation
+baseurl: "/jekyll_test" # the subpath of your site, e.g. /blog
+url: "https://jackie116.github.io" 
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
