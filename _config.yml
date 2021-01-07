@@ -1,4 +1,6 @@
 # Site settings
+remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
 title: Jekyll Test
 #description: A Jekyll theme for documentation
 baseurl: "/jekyll_test" # the subpath of your site, e.g. /blog
