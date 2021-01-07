@@ -38,7 +38,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "GitHub":
     - "//github.com/jackie116/jekyll_test"
 
 # Makes Aux links open in a new tab. Default is false
