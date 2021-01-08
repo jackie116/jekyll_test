@@ -47,7 +47,7 @@ aux_links_new_tab: true
 # Enable or disable heading anchors
 heading_anchors: true
 
-footer_content: "This repository is distributed under the <a href=\"">MIT License.</a>
+#footer_content: "This repository is distributed under the <a href=\"">MIT License.</a>
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
