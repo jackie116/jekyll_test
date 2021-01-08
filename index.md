@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-## Welcome to GitHub Pages
+## Welcome to jackie116
 
 You can use the [editor on GitHub](https://github.com/jackie116/jekyll_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
